@@ -1,5 +1,7 @@
 # Token Optimizer
 
+> [English version](README.en.md)
+
 Skill para Claude Code que optimiza todas las respuestas para máxima calidad con mínimo uso de tokens.
 
 ## Instalación
