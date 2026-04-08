@@ -6,14 +6,17 @@ Claude Code skill that optimizes all responses for maximum quality with minimum 
 
 ## Installation
 
+### Option 1: Direct download
+
 ```bash
+curl -LO https://raw.githubusercontent.com/diegonella/token-optimizer/main/token-optimizer.skill
 claude install-skill token-optimizer.skill
 ```
 
-Or by cloning the repo:
+### Option 2: Clone the repo
 
 ```bash
-git clone git@github.com:diegonella/token-optimizer.git
+git clone https://github.com/diegonella/token-optimizer.git
 claude install-skill token-optimizer/token-optimizer.skill
 ```
 
