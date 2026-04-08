@@ -1,0 +1,23 @@
+{
+  "skill_name": "token-optimizer",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Cómo configuro autenticación con Google Sign-In en React Native Expo? Necesito que funcione en Android e iOS.",
+      "expected_output": "Código directo sin introducción. Solo pasos esenciales: instalación, configuración, snippet de implementación.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "Mi fetch a Firebase falla con 'deadline exceeded'. ¿Qué puede ser?",
+      "expected_output": "Diagnóstico conciso. Causas más probables primero. Si aplica, snippet de fix. Sin párrafos largos.",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "Explica cómo funciona una transacción atómica en Firestore. Necesito entender por qué previene duplicados.",
+      "expected_output": "Explicación técnica densa. Conceptos claros pero sin redundancia. Ejemplo si clarifica.",
+      "files": []
+    }
+  ]
+}
